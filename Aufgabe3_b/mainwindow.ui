@@ -17,8 +17,8 @@
    <widget class="QPushButton" name="buttonTimer">
     <property name="geometry">
      <rect>
-      <x>40</x>
-      <y>100</y>
+      <x>30</x>
+      <y>70</y>
       <width>101</width>
       <height>31</height>
      </rect>
@@ -66,7 +66,7 @@
    <widget class="QTimeEdit" name="timeEdit">
     <property name="geometry">
      <rect>
-      <x>150</x>
+      <x>140</x>
       <y>100</y>
       <width>118</width>
       <height>22</height>
@@ -76,8 +76,8 @@
    <widget class="QLabel" name="Zeitspanne">
     <property name="geometry">
      <rect>
-      <x>170</x>
-      <y>60</y>
+      <x>160</x>
+      <y>70</y>
       <width>61</width>
       <height>21</height>
      </rect>
@@ -115,8 +115,8 @@
    <widget class="QPushButton" name="buttonStopp">
     <property name="geometry">
      <rect>
-      <x>280</x>
-      <y>100</y>
+      <x>40</x>
+      <y>110</y>
       <width>81</width>
       <height>31</height>
      </rect>
